@@ -1,13 +1,12 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
-
-TODO
+Game, Calulator, pokedex, game mod
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Dhruv Khandave and Jokan Kasto
 
 ## Do you have any questions of your own?
 
-TODO
+None
